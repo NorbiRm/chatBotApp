@@ -14,7 +14,7 @@ import java.util.*
 
 class MainActivity : AppCompatActivity() {
     companion object {
-        private const val ACCESS_TOKEN = "285edc623dd24e8783042333756724df"
+        private const val ACCESS_TOKEN = "" //285edc623dd24e8783042333756724df
 
     }
 
